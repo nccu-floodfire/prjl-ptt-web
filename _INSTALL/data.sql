@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS `{dbname}`;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `{dbname}` /*!40100 DEFAULT CHARACTER SET latin1 */;
+
+USE `{dbname}`;

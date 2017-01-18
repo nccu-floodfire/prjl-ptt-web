@@ -1,0 +1,7 @@
+_*
+.git
+.svn
+README.md
+README.txt
+LICENSE.txt
+Vagrantfile
